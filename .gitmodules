@@ -1,0 +1,3 @@
+[submodule "face_reid"]
+	path = face_reid
+	url = https://github.com/Manan1602/face_reid.git
